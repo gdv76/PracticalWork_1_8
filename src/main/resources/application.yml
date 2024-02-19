@@ -1,0 +1,4 @@
+spring.profiles.active: empty
+init-path: src\\main\\resources\\default-contacts.txt
+save-path: src\\main\\resources\\contacts1.txt
+help-path: src\\main\\resources\\README.md
